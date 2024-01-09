@@ -9,3 +9,6 @@ https://www.ces.tech/
 
 CES 2024 Day 1: Insane New Tech from Samsung!
 https://www.youtube.com/watch?v=x8TuG7Or5y8
+
+CES 2024 - Hottest New Tech Products Unveiled
+https://www.youtube.com/watch?v=iqpABS2UMRc
