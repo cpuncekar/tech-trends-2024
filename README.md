@@ -18,3 +18,5 @@ https://www.youtube.com/watch?v=F74c_1nwVbY
 
 CES 2024: Tech companies show off robots, digital LED barricades and flying cars
 https://www.youtube.com/watch?v=nt6fzI1n6Zw
+
+https://app.diagrams.net/
