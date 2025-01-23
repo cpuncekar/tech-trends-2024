@@ -10,5 +10,8 @@ document.addEventListener("DOMContentLoaded", () => {
             header.style.transform = "scale(1)";
             header.style.color = "#fff";
         }, 3000); // Animation lasts for 3 seconds before settling
+
+        // Ensure the text stays visible
+        header.style.opacity = "1";
     }
 });
