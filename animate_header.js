@@ -8,10 +8,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
         setTimeout(() => {
             header.style.transform = "scale(1)";
-            header.style.color = "#fff";
+            header.style.color = "#333"; // Changed color to #333 for visibility
         }, 3000); // Animation lasts for 3 seconds before settling
 
         // Ensure the text stays visible
         header.style.opacity = "1";
+
+        // Apply the final color explicitly after the animation
+        setTimeout(() => {
+            header.style.color = "#333";
+        }, 3500);
     }
 });
